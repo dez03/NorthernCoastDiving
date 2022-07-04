@@ -1,0 +1,72 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 05 Feb 2022 01:17:08 at https://www.northerncoastdiving.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.northerncoastdiving.com/ -O1 "C:\My Web Sites\northern coast diving" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:17:09	Warning: 	Note: due to https://www.northerncoastdiving.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+01:17:41	Warning: 	Moved Permanently for https://www.northerncoastdiving.com//feed/
+01:17:41	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.northerncoastdiving.com//feed/ and https://www.northerncoastdiving.com/feed/
+01:17:41	Warning: 	File has moved from https://www.northerncoastdiving.com//feed/ to https://www.northerncoastdiving.com/feed/
+01:18:13	Warning: 	File not parsed, looks like binary: https://www.northerncoastdiving.com/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur
+01:18:13	Warning: 	File not parsed, looks like binary: https://www.northerncoastdiving.com/wp-content/plugins/masterslider/public/assets/css/common/grab.cur
+01:21:03	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/wp-content/plugins/ultimate-social-media-plus/images/top_aro.png (from https://www.northerncoastdiving.com/wp-content/plugins/ultimate-social-media-plus/css/sfsi-style.css?ver=5.8.3)
+01:22:50	Warning: 	Moved Permanently for https://www.northerncoastdiving.com/author/agoris/
+01:22:50	Warning: 	File has moved from https://www.northerncoastdiving.com/author/agoris/ to https://www.northerncoastdiving.com
+01:22:50	Warning: 	Found for https://www.northerncoastdiving.com/hello-world/?share=twitter
+01:22:50	Warning: 	File has moved from https://www.northerncoastdiving.com/hello-world/?share=twitter to https://twitter.com/intent/tweet?text=Hello%20world%21&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Fhello-world%2F
+01:22:50	Warning: 	Found for https://www.northerncoastdiving.com/hello-world/?share=facebook
+01:22:50	Warning: 	File has moved from https://www.northerncoastdiving.com/hello-world/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Fhello-world%2F&t=Hello%20world%21
+01:23:14	Warning: 	Found for https://www.northerncoastdiving.com/our-essential-rafting-tips/?share=twitter
+01:23:14	Warning: 	File has moved from https://www.northerncoastdiving.com/our-essential-rafting-tips/?share=twitter to https://twitter.com/intent/tweet?text=Our%20Essential%20Rafting%20Tips&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Four-essential-rafting-tips%2F
+01:23:14	Warning: 	Found for https://www.northerncoastdiving.com/our-essential-rafting-tips/?share=facebook
+01:23:14	Warning: 	File has moved from https://www.northerncoastdiving.com/our-essential-rafting-tips/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Four-essential-rafting-tips%2F&t=Our%20Essential%20Rafting%20Tips
+01:23:14	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/three-rocks/feed/ (from https://www.northerncoastdiving.com/tour/three-rocks/)
+01:23:14	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/palmera/feed/ (from https://www.northerncoastdiving.com/tour/palmera/)
+01:23:14	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/canyon/feed/ (from https://www.northerncoastdiving.com/tour/canyon/)
+01:23:15	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/west-wall/feed/ (from https://www.northerncoastdiving.com/tour/west-wall/)
+01:23:15	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/puntilla-wall/feed/ (from https://www.northerncoastdiving.com/tour/puntilla-wall/)
+01:23:16	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/mini-wall/feed/ (from https://www.northerncoastdiving.com/tour/mini-wall/)
+01:23:16	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/paradise-1/feed/ (from https://www.northerncoastdiving.com/tour/paradise-1/)
+01:23:16	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/paradise-2/feed/ (from https://www.northerncoastdiving.com/tour/paradise-2/)
+01:23:17	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/coral-garden/feed/ (from https://www.northerncoastdiving.com/tour/coral-garden/)
+01:23:17	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/coral-garden-wall/feed/ (from https://www.northerncoastdiving.com/tour/coral-garden-wall/)
+01:23:18	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/ray-point/feed/ (from https://www.northerncoastdiving.com/tour/ray-point/)
+01:23:18	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/sea-horse-reef/feed/ (from https://www.northerncoastdiving.com/tour/sea-horse-reef/)
+01:23:18	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/zingara-wreck/feed/ (from https://www.northerncoastdiving.com/tour/zingara-wreck/)
+01:23:18	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/pyramids/feed/ (from https://www.northerncoastdiving.com/tour/pyramids/)
+01:23:19	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/airport-wall/feed/ (from https://www.northerncoastdiving.com/tour/airport-wall/)
+01:23:19	Error: 	"Not Found" (404) at link https://www.northerncoastdiving.com/tour/five-rocks/feed/ (from https://www.northerncoastdiving.com/tour/five-rocks/)
+01:23:19	Warning: 	Found for https://www.northerncoastdiving.com/top-camping-destinations-reviewed/?share=twitter
+01:23:19	Warning: 	File has moved from https://www.northerncoastdiving.com/top-camping-destinations-reviewed/?share=twitter to https://twitter.com/intent/tweet?text=Top%20Camping%20Destinations%20Reviewed&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Ftop-camping-destinations-reviewed%2F
+01:23:19	Warning: 	Found for https://www.northerncoastdiving.com/top-camping-destinations-reviewed/?share=facebook
+01:23:19	Warning: 	File has moved from https://www.northerncoastdiving.com/top-camping-destinations-reviewed/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Ftop-camping-destinations-reviewed%2F&t=Top%20Camping%20Destinations%20Reviewed
+01:23:19	Warning: 	Found for https://www.northerncoastdiving.com/multi-day-vs-single-day-rafting-trips/?share=twitter
+01:23:19	Warning: 	File has moved from https://www.northerncoastdiving.com/multi-day-vs-single-day-rafting-trips/?share=twitter to https://twitter.com/intent/tweet?text=Multi-Day%20vs%20Single-Day%20Rafting%20Trips&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Fmulti-day-vs-single-day-rafting-trips%2F
+01:23:19	Warning: 	Found for https://www.northerncoastdiving.com/multi-day-vs-single-day-rafting-trips/?share=facebook
+01:23:19	Warning: 	File has moved from https://www.northerncoastdiving.com/multi-day-vs-single-day-rafting-trips/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Fmulti-day-vs-single-day-rafting-trips%2F&t=Multi-Day%20vs%20Single-Day%20Rafting%20Trips
+01:23:19	Warning: 	Found for https://www.northerncoastdiving.com/the-rafting-experience/?share=twitter
+01:23:19	Warning: 	File has moved from https://www.northerncoastdiving.com/the-rafting-experience/?share=twitter to https://twitter.com/intent/tweet?text=The%20Rafting%20Experience&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Fthe-rafting-experience%2F
+01:23:19	Warning: 	Found for https://www.northerncoastdiving.com/the-rafting-experience/?share=facebook
+01:23:19	Warning: 	File has moved from https://www.northerncoastdiving.com/the-rafting-experience/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Fthe-rafting-experience%2F&t=The%20Rafting%20Experience
+01:23:34	Warning: 	Found for https://www.northerncoastdiving.com/amazing-bucket-list-adventure-ideas/?share=twitter
+01:23:34	Warning: 	File has moved from https://www.northerncoastdiving.com/amazing-bucket-list-adventure-ideas/?share=twitter to https://twitter.com/intent/tweet?text=Amazing%20Bucket%20List%20Adventure%20Ideas&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Famazing-bucket-list-adventure-ideas%2F
+01:23:34	Warning: 	Found for https://www.northerncoastdiving.com/amazing-bucket-list-adventure-ideas/?share=facebook
+01:23:34	Warning: 	File has moved from https://www.northerncoastdiving.com/amazing-bucket-list-adventure-ideas/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Famazing-bucket-list-adventure-ideas%2F&t=Amazing%20Bucket%20List%20Adventure%20Ideas
+01:23:34	Warning: 	Found for https://www.northerncoastdiving.com/why-rafting-makes-a-great-school-trip/?share=twitter
+01:23:34	Warning: 	File has moved from https://www.northerncoastdiving.com/why-rafting-makes-a-great-school-trip/?share=twitter to https://twitter.com/intent/tweet?text=Why%20Rafting%20Makes%20a%20Great%20School%20Trip&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Fwhy-rafting-makes-a-great-school-trip%2F
+01:23:34	Warning: 	Found for https://www.northerncoastdiving.com/why-rafting-makes-a-great-school-trip/?share=facebook
+01:23:34	Warning: 	File has moved from https://www.northerncoastdiving.com/why-rafting-makes-a-great-school-trip/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Fwhy-rafting-makes-a-great-school-trip%2F&t=Why%20Rafting%20Makes%20a%20Great%20School%20Trip
+01:23:34	Warning: 	Found for https://www.northerncoastdiving.com/our-guide-answers-your-top-questions/?share=twitter
+01:23:34	Warning: 	File has moved from https://www.northerncoastdiving.com/our-guide-answers-your-top-questions/?share=twitter to https://twitter.com/intent/tweet?text=Our%20Guide%20Answers%20Your%20Top%20Questions&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Four-guide-answers-your-top-questions%2F
+01:23:34	Warning: 	Found for https://www.northerncoastdiving.com/our-guide-answers-your-top-questions/?share=facebook
+01:23:34	Warning: 	File has moved from https://www.northerncoastdiving.com/our-guide-answers-your-top-questions/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Four-guide-answers-your-top-questions%2F&t=Our%20Guide%20Answers%20Your%20Top%20Questions
+01:23:35	Warning: 	Found for https://www.northerncoastdiving.com/planning-your-canoeing-adventure/?share=twitter
+01:23:35	Warning: 	File has moved from https://www.northerncoastdiving.com/planning-your-canoeing-adventure/?share=twitter to https://twitter.com/intent/tweet?text=Planning%20Your%20Canoeing%20Adventure&url=https%3A%2F%2Fwww.northerncoastdiving.com%2Fplanning-your-canoeing-adventure%2F
+01:23:35	Warning: 	Found for https://www.northerncoastdiving.com/planning-your-canoeing-adventure/?share=facebook
+01:23:35	Warning: 	File has moved from https://www.northerncoastdiving.com/planning-your-canoeing-adventure/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.northerncoastdiving.com%2Fplanning-your-canoeing-adventure%2F&t=Planning%20Your%20Canoeing%20Adventure
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 27 seconds : 583 links scanned, 545 files written (97389314 bytes overall) [89880377 bytes received at 232249 bytes/sec], 11798118 bytes transferred using HTTP compression in 366 files, ratio 25%, 11.0 requests per connection
+(17 errors, 44 warnings, 0 messages)

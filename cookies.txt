@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.tripadvisor.co.uk	TRUE	/	FALSE	1999999999	TADCID	EwB5k8nFGwyaOAZFABQCFdpBzzOuRA-9xvCxaMyI12tTxrJGvmTIb3YmXExXpZE0ZK6MQQ-DOfQCtfLnB8jpBB3jH280GBc-uxs
+.tripadvisor.co.uk	TRUE	/	FALSE	1999999999	TAUnique	%1%enc%3Ay0v2bySJHvw%2BrkvvWQhzwITkIkSg4e6R2xCn033Pxl0%3D
+.tripadvisor.co.uk	TRUE	/	FALSE	1999999999	ServerPool	C
+www.tripadvisor.com	TRUE	/	FALSE	1999999999	TADCID	VJcgZXgK55jW1mBzABQCFdpBzzOuRA-9xvCxaMyI12tTxgaNOU4kuJBXqM-9eVwWlU01fC2TNNXwOnrfM6-hM5_O2MvLTYGiSaU
+.tripadvisor.com	TRUE	/	FALSE	1999999999	TAUnique	%1%enc%3ANCwvj5pjOh4%2BrkvvWQhzwITkIkSg4e6R%2BwC0IXQlFqE%3D
+.tripadvisor.com	TRUE	/	FALSE	1999999999	ServerPool	X
+.tripadvisor.co.uk	TRUE	/	FALSE	1999999999	TASession	V2ID.D311DE7CB49B916CCAB6700FACC9576B*SQ.2*GR.52*ABTR.83*HS.recommended*ES.popularity*DS.5*SAS.popularity*FPS.oldFirst*FA.1*TRA.true
+.tripadvisor.co.uk	TRUE	/	FALSE	1999999999	TACds	A.2.11900.2.2022-02-04
+.tripadvisor.com	TRUE	/	FALSE	1999999999	TASession	V2ID.8AF0BACBC926CD358D448F0E9F06AB0F*SQ.3*GR.8*ABTR.5*HS.recommended*ES.popularity*DS.5*SAS.popularity*FPS.oldFirst*FA.1*TRA.true
+.tripadvisor.com	TRUE	/	FALSE	1999999999	TACds	A.3.18034.2.2022-02-04
+
